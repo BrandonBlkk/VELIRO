@@ -37,13 +37,6 @@ This platform provides an intuitive and efficient way for both admins and custom
 
 ---
 
-## 📚 Documentation
-
-- 🛡️ **[Admin User Manual]([./User%20Manual%20(For%20Admin).pdf](https://github.com/BrandonBlkk/VELIRO/blob/main/User%20Manual/User%20Manual%20(For%20Admin).pdf))** – Detailed guidance for administrators.
-- 🌟 **[Customer User Manual](./User%20Manual%20(For%20Customer).pdf)** – Step-by-step instructions for customers.
-
----
-
 ## 🚀 Installation
 
 Follow these steps to set up the system:
